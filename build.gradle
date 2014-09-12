@@ -65,6 +65,7 @@ dependencies {
 
     compile("org.postgresql:postgresql:9.2-1003-jdbc4")
 
+    compile('com.google.code.gson:gson:2.2.+')
 
     testCompile("junit:junit")
 }
